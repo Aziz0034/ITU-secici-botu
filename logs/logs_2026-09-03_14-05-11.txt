@@ -1,0 +1,11 @@
+[2026-09-03 14:05:03.084] Ders Seçim request response mesajı: {"ecrnResultList": [{"crn": "10001", "resultCode": "successResult"}], "scrnResultList": []}
+[2026-09-03 14:05:03.084] CRN 10001 için işlem başarıyla tamamlandı.
+[2026-09-03 14:05:05.110] Ders secim request read timeout: HTTPSConnectionPool(host='127.0.0.1', port=54190): Read timed out. (read timeout=2.0)
+[2026-09-03 14:05:05.126] CRN 10001 durum kontrolunde kayitli gorundu; tekrar POST atilmayacak.
+[2026-09-03 14:05:07.177] Ders secim request read timeout: HTTPSConnectionPool(host='127.0.0.1', port=54190): Read timed out. (read timeout=2.0)
+[2026-09-03 14:05:09.210] Ders secim request read timeout: HTTPSConnectionPool(host='127.0.0.1', port=54190): Read timed out. (read timeout=2.0)
+[2026-09-03 14:05:11.275] Ders secim request read timeout: HTTPSConnectionPool(host='127.0.0.1', port=54190): Read timed out. (read timeout=2.0)
+[2026-09-03 14:05:11.313] CRN 10001 durum kontrolunde kayitli gorundu; tekrar POST atilmayacak.
+[2026-09-03 14:05:11.356] Ders Seçim request response mesajı: {"ecrnResultList": [{"crn": "10001", "resultCode": "successResult"}], "scrnResultList": []}
+[2026-09-03 14:05:11.356] CRN 10001 için işlem başarıyla tamamlandı.
+[2026-09-03 14:05:11.859] Çıktılar kaydediliyor...

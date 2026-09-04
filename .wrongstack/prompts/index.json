@@ -1,0 +1,24 @@
+{
+  "updatedAt": "2026-09-03T14:22:34.827Z",
+  "totalPrompts": 11,
+  "totalTokensEstimated": 19501,
+  "months": {
+    "2026-09": {
+      "days": {
+        "2026-09-03": {
+          "sessions": {
+            "2026-09-03/sess_01M1KJWD0W3DAGBT7EGHXJSFDA": {
+              "promptCount": 11,
+              "tokenEstimate": 19501,
+              "lastTimestamp": "2026-09-03T14:22:34.827Z",
+              "categories": {
+                "system_prompt": 1,
+                "raw_user": 10
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

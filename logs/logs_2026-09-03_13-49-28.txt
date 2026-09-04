@@ -1,0 +1,20 @@
+[2026-09-03 13:49:24.262] Zaman kontrol request response mesajı: {"kayitZamanKontrolResult": {"ogrenciSinifaKayitOlabilir": false, "ogrenciSiniftanAyrilabilir": false}}
+[2026-09-03 13:49:24.769] Zaman kontrol request response mesajı: {"kayitZamanKontrolResult": {"ogrenciSinifaKayitOlabilir": false, "ogrenciSiniftanAyrilabilir": false}}
+[2026-09-03 13:49:24.769] Ders Seçim request response mesajı: {"ecrnResultList": [{"crn": "10001", "resultCode": "successResult"}], "scrnResultList": []}
+[2026-09-03 13:49:24.769] CRN 10001 için işlem başarıyla tamamlandı.
+[2026-09-03 13:49:24.855] Zaman kontrol request response mesajı: {"kayitZamanKontrolResult": {"ogrenciSinifaKayitOlabilir": false, "ogrenciSiniftanAyrilabilir": false}}
+[2026-09-03 13:49:25.056] Zaman kontrol request response mesajı: {"kayitZamanKontrolResult": {"ogrenciSinifaKayitOlabilir": false, "ogrenciSiniftanAyrilabilir": false}}
+[2026-09-03 13:49:25.056] Ders Seçim request response mesajı: {"ecrnResultList": [{"crn": "10001", "resultCode": "successResult"}], "scrnResultList": []}
+[2026-09-03 13:49:25.056] CRN 10001 için işlem başarıyla tamamlandı.
+[2026-09-03 13:49:25.129] Lokal fallback öncesi same-origin bağlantı kontrolü tamamlandı.
+[2026-09-03 13:49:25.132] Ders Seçim request response mesajı: {"ecrnResultList": [{"crn": "10001", "resultCode": "successResult"}], "scrnResultList": []}
+[2026-09-03 13:49:25.132] CRN 10001 için işlem başarıyla tamamlandı.
+[2026-09-03 13:49:25.211] Zaman kontrol request response mesajı: {"kayitZamanKontrolResult": {"ogrenciSinifaKayitOlabilir": false, "ogrenciSiniftanAyrilabilir": false}}
+[2026-09-03 13:49:25.211] Ders Seçim request response mesajı: {"ecrnResultList": [{"crn": "10001", "resultCode": "successResult"}], "scrnResultList": []}
+[2026-09-03 13:49:25.211] CRN 10001 için işlem başarıyla tamamlandı.
+[2026-09-03 13:49:25.277] Zaman kontrol request response mesajı: {"kayitZamanKontrolResult": {"ogrenciSinifaKayitOlabilir": false, "ogrenciSiniftanAyrilabilir": false}}
+[2026-09-03 13:49:25.277] Ders Seçim request response mesajı: {"error": "temporary"}
+[2026-09-03 13:49:25.277] Ders secim request: HTTP 500 alindi. Sunucu tarafinda gecici hata olabilir.
+[2026-09-03 13:49:28.286] Ders Seçim request response mesajı: {"ecrnResultList": [{"crn": "10001", "resultCode": "successResult"}], "scrnResultList": []}
+[2026-09-03 13:49:28.286] CRN 10001 için işlem başarıyla tamamlandı.
+[2026-09-03 13:49:28.839] Çıktılar kaydediliyor...

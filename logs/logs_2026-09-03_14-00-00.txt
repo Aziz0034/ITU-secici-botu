@@ -1,0 +1,7 @@
+[2026-09-03 13:59:59.696] Ders secim request read timeout: HTTPSConnectionPool(host='127.0.0.1', port=52965): Read timed out. (read timeout=2.0)
+[2026-09-03 13:59:59.716] Ders Seçim request response mesajı: {"ecrnResultList": [{"crn": "10001", "resultCode": "VAL21"}], "scrnResultList": []}
+[2026-09-03 13:59:59.720] İstek limitini aşıldığı için 1 saatlik ders seçim engeli yenildi.
+[2026-09-03 13:59:59.721] VAL21 limit engeli algılandı; 1 saat uykuya geçilmeyecek, mevcut ders seçim turu durdurulacak.
+[2026-09-03 13:59:59.767] Ders Seçim request response mesajı: {"ecrnResultList": [{"crn": "10001", "resultCode": "successResult"}], "scrnResultList": []}
+[2026-09-03 13:59:59.767] CRN 10001 için işlem başarıyla tamamlandı.
+[2026-09-03 14:00:00.275] Çıktılar kaydediliyor...

@@ -1,0 +1,13 @@
+{
+  "role": "shadow-agent",
+  "entries": {
+    "wrongstack-mailbox": {
+      "loaded": 1,
+      "succeeded": 1,
+      "failed": 0,
+      "learned": 0,
+      "lastUsedAt": "2026-09-03T12:32:09.885Z"
+    }
+  },
+  "updatedAt": "2026-09-03T12:32:09.886Z"
+}

@@ -1,0 +1,23 @@
+[2026-09-03 10:53:15.392] Input dosyaları okunuyor...
+[2026-09-03 10:53:15.392] İTÜ hesap bilgileri okundu: gocera23, ***********.
+[2026-09-03 10:53:15.392] SCRN listesi okundu: [].
+[2026-09-03 10:53:15.392] CRN 14251 için yedek CRN 14250 tanımlandı.
+[2026-09-03 10:53:15.392] CRN 12654 için yedek CRN 12635 tanımlandı.
+[2026-09-03 10:53:15.392] CRN 14443 için yedek CRN 14445 tanımlandı.
+[2026-09-03 10:53:15.392] CRN 14647 için yedek CRN 14240 tanımlandı.
+[2026-09-03 10:53:15.392] CRN 14271 için yedek CRN 14272 tanımlandı.
+[2026-09-03 10:53:15.396] CRN listesi okundu: ['14251', '12654', '14443', '14647', '14271', '14711', '14264'].
+[2026-09-03 10:53:15.396] Test modu açık, ders kayıt vakti kontrol edilmeyecek.
+[2026-09-03 10:53:15.396] CRN simülatörü açılıyor...
+[2026-09-03 10:53:15.396] Web sürücüsü başlatılıyor...
+[2026-09-03 10:53:23.900] Simülatöre CRN girildi: 14251
+[2026-09-03 10:53:23.948] Simülatöre CRN girildi: 12654
+[2026-09-03 10:53:23.997] Simülatöre CRN girildi: 14443
+[2026-09-03 10:53:24.046] Simülatöre CRN girildi: 14647
+[2026-09-03 10:53:24.095] Simülatöre CRN girildi: 14271
+[2026-09-03 10:53:24.142] Simülatöre CRN girildi: 14711
+[2026-09-03 10:53:24.190] Simülatöre CRN girildi: 14264
+[2026-09-03 10:53:24.221] Simülatörde Kaydet butonuna basıldı.
+[2026-09-03 10:53:24.221] Simülatör testi tamamlandı.
+[2026-09-03 10:53:24.222] Aktif web sürücüleri temizleniyor...
+[2026-09-03 10:53:26.354] Çıktılar kaydediliyor...

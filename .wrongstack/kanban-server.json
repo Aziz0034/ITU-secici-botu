@@ -1,0 +1,10 @@
+{
+  "protocolVersion": 6,
+  "pid": 25092,
+  "projectRoot": "C:\\Users\\Abdulaziz\\OneDrive\\Masaüstü\\itu-ders-secici-main",
+  "endpoint": "\\\\.\\pipe\\wrongstack-kanban-v6-35110e691ec9075de673ac75",
+  "storage": "sqlite",
+  "databasePath": "C:\\Users\\Abdulaziz\\OneDrive\\Masaüstü\\itu-ders-secici-main\\.wrongstack\\kanbans\\_kanban.sqlite",
+  "startedAt": "2026-09-03T11:29:23.890Z",
+  "authToken": "2a41eef5ee091fd1d83d615bd300b942"
+}
